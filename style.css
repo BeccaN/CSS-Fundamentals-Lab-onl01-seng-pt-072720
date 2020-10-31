@@ -21,3 +21,8 @@ nav a {
   background-color: gray;
 }
 
+figcaption {
+  align-content: center;
+  font-size: 8px;
+}
+
